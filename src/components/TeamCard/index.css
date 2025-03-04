@@ -1,0 +1,52 @@
+/* Write your CSS here */
+
+.team-card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.image-container {
+  display: flex;
+  justify-content: flex-start;
+  margin-right: 10px;
+  width: 40%;
+}
+
+.team-matches-image {
+  height: 95px;
+  margin-right: 10px;
+}
+
+.team-matches-team-name {
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-size: 26px;
+  margin-left: 10px;
+  text-align: center;
+  justify-self: flex-start;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 767px) {
+  .image-container {
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 10px;
+    width: 40%;
+  }
+
+  .team-matches-image {
+    height: 40px;
+    margin-right: 0px;
+  }
+
+  .team-matches-team-name {
+    font-size: 12px;
+    margin-left: 10px;
+  }
+}
