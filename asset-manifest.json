@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ipl-page/static/css/main.0013c69a.chunk.css",
+    "main.js": "/ipl-page/static/js/main.564c2344.chunk.js",
+    "main.js.map": "/ipl-page/static/js/main.564c2344.chunk.js.map",
+    "runtime-main.js": "/ipl-page/static/js/runtime-main.2d98c370.js",
+    "runtime-main.js.map": "/ipl-page/static/js/runtime-main.2d98c370.js.map",
+    "static/css/2.91ac4a78.chunk.css": "/ipl-page/static/css/2.91ac4a78.chunk.css",
+    "static/js/2.4b2b5748.chunk.js": "/ipl-page/static/js/2.4b2b5748.chunk.js",
+    "static/js/2.4b2b5748.chunk.js.map": "/ipl-page/static/js/2.4b2b5748.chunk.js.map",
+    "index.html": "/ipl-page/index.html",
+    "static/css/2.91ac4a78.chunk.css.map": "/ipl-page/static/css/2.91ac4a78.chunk.css.map",
+    "static/css/main.0013c69a.chunk.css.map": "/ipl-page/static/css/main.0013c69a.chunk.css.map",
+    "static/js/2.4b2b5748.chunk.js.LICENSE.txt": "/ipl-page/static/js/2.4b2b5748.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d98c370.js",
+    "static/css/2.91ac4a78.chunk.css",
+    "static/js/2.4b2b5748.chunk.js",
+    "static/css/main.0013c69a.chunk.css",
+    "static/js/main.564c2344.chunk.js"
+  ]
+}
